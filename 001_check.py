@@ -41,3 +41,4 @@ if __name__=='__main__':
 
 print("ＯＫa")
 print("ピザ")
+print("そば")
